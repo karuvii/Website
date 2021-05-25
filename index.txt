@@ -1,4 +1,0 @@
-internals & working
-commands
-config
-tools
